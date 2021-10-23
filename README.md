@@ -3,7 +3,7 @@
 code coming soon
 
 ## About
-Source code of the paper [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://arxiv.org/abs/2109.04707).
+Source code of the paper [Functionally Regionalized Knowledge Transfer for Low-resource Drug Discovery](https://arxiv.org/abs/xxx).
 
 
 If you find this repository useful in your research, please cite the following paper:
